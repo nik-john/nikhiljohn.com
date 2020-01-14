@@ -55,3 +55,11 @@ export const Thumbnail = styled.div`
     width: 100%;
   }
 `;
+
+export const SkillList = styled.ul`
+  list-style: none;
+`;
+
+export const SkillListItem = styled.li`
+  list-style: none;
+`;

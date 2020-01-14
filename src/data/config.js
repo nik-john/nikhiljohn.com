@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'Nikhil John',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-  author: 'John Doe',
-  url: 'https://portfolio.smakosh.com',
-  legalName: 'John Doe',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  author: 'Nikhil John',
+  url: 'https://nikhiljohn.com',
+  legalName: 'Nikhil John',
+  defaultDescription: 'I’m Nikhil and I’m a Javascript Engineer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/smakosh',
@@ -31,5 +31,5 @@ module.exports = {
     phone: 'phone number',
   },
   foundingDate: '2018',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  recaptcha_key: '6LeNJs8UAAAAABrOCdJKTHKDpoAc3D8avL63HM7z',
 };
